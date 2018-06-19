@@ -4,5 +4,6 @@ public class Main {
 
         System.out.println("Hello World!");
         int a = 5;
+        int b =66;
     }
 }
